@@ -43,7 +43,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'rest_framework',
-    'config.gym',
+    'config.gym.apps.GymConfig'
     'corsheaders',
     'django_filters',
 ]
