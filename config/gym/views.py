@@ -72,7 +72,6 @@ class UserViewSet(viewsets.ModelViewSet):
 
 
 
-
 # =========================
 # MEMBERSHIP
 # =========================
